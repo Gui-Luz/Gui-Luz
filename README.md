@@ -4,9 +4,9 @@
 <h1 align="center">📡 Hello Visitor!</h1>
 </p>
 
-<p>I'm a GIS analyst and self-taught programmer coding from UTC-3 on the southern hemisphere.</p>
+<p>I'm a Data Analyst and self-taught programmer coding from UTC-3 on the southern hemisphere.</p>
 
-<p>I'm developing my data engineering skills aiming to work in big geospatial data projects.</p>
+<p>I'm developing my data engineering skills aiming to work in big data projects.</p>
 
 **My stack as of datetime.now():**
 
